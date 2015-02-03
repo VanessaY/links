@@ -8,6 +8,7 @@ Fall Semester Pd 5
 * Vanessa Yan, Jessica Ng, Nathaniel Brassell, Jason Lu
 * Geolocation with GMaps API
 * http://help.wtf.im/
+* * If that's a map, go to http://help.wtf.im:1247
 * https://github.com/Softdev-project/Assassin
 
 ### Projects
